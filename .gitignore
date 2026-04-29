@@ -1,0 +1,7 @@
+
+Data/
+myenv/
+.claude/
+submission.csv
+*.csv
+*.png
